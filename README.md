@@ -14,6 +14,6 @@
 Github：minsaang
 
 - 📫 How to reach me:
-    - :email: [itgoyo@gmail.com](mailto:minsangit@gmail.com)
+    - :email: [mssongit@gmail.com](mailto:mssongit@gmail.com)
 
 
