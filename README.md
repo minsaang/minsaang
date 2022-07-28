@@ -30,11 +30,11 @@
   <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
-<h1 align="center">Hi 👋, I'm itgoyo</h1>
-<h3 align="center">A passionate fullstack developer from China</h3>
+<h1 align="center">Hi 👋, I'm minsang</h1>
+<h3 align="center">Financial AI developer from South Korea</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=itgoyo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
@@ -64,17 +64,6 @@
 ![spotify-github-profile](/img/default.svg)
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=g9mmploi6sdrg6sk0xosqex2u&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
-
-### :dart: Weekly Fuck The Code
-
-<!--START_SECTION:waka-->
-
-```text
-TOML         1 hr 23 mins    ███████████████▓░░░░░░░░░   62.83 %
-JSON         18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Git Config   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-Other        14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-```
 
 <!--END_SECTION:waka-->
 
@@ -191,61 +180,13 @@ Other        14 mins         ██▓░░░░░░░░░░░░░░
 
 名字：李狗蛋LGD
 
-Github：itgoyo
-
-微博、知乎、B站：李狗蛋LGD
-
-斗鱼房间:https://www.douyu.com/201001
-
-B站房间:https://live.bilibili.com/3519206
+Github：minsaang
 
 Don't be a programmer, Be a problem solver.
 
 公众号：v2code
 
 - 📫 How to reach me:
-    - :octocat: [Github@itgoyo](https://github.com/itgoyo)
-    - :email: [itgoyo@gmail.com](mailto:itgoyo@gmail.com)
-    - :tv: [Bilibili@itgoyo](https://space.bilibili.com/12767066)
-    - :tv: [Youtube@itgoyo](https://www.youtube.com/channel/UCpCzS_uKS1zzOAUjuuBNXDQ?view_as=subscriber)
-    - :camera:[Instagram@itgoyo](https://www.instagram.com/itgoyo1991/)
-    - :bird:[twitter@itgoyo](https://twitter.com/itgoyo/)
-
-
-- :computer: PC/Mac:
-
-    - NUC8i7HVK 64G 2TSSD Big Sur 11.2 + Win10
-    - MacBookPro2015 16G 256SSD
-    - Mac Mini m1 16G 512SSD
-    - i7-6700k 32G 256SSD+4T RX590 MacOS Big Sur 11.1
-    - i5-4590  16G 1TSSD RX570 MacOS Catalina 10.15.7
-    - i5-10400  16G 512SSD Ubuntu20.04 + Win10
-    - i5-10400  16G 512SSD+256SSD Win10 + Big Sur 11.1
-    - TencentCloud 4Core-4G-80G-1200G/3Year Ubuntu20.04
-    - 蜗牛星际 J1900+4G +3T DSM918+
-    - 威联通QNAP TS462C 500G
-
-- :iphone: phone/iPhone:
-    - iPhone12
-
-- :camera: Camera:
-    - Sony A6000
-    - Sony A6400
-
-- :microphone: Mic:
-    - SM7B + ID14MKII
-    - MAONO PM320T + E2
-
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| [Blogs](https://itgoyo.github.io/) |[Games](https://itgoyo.github.io/games/)  | [Books](https://itgoyo.github.io/books/) | [Movies](https://itgoyo.github.io/movies/) |
-
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#289](https://github.com/itgoyo/500Days-Of-Github/issues/289) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-2. ❗️ Opened issue [#288](https://github.com/itgoyo/500Days-Of-Github/issues/288) in [itgoyo/500Days-Of-Github](https://github.com/itgoyo/500Days-Of-Github)
-<!--END_SECTION:activity-->
+    - :email: [itgoyo@gmail.com](mailto:minsangit@gmail.com)
 
 
